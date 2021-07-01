@@ -13,7 +13,8 @@ We were presented with a dataset of surveys done by students of a university val
 - The average satisfaction of the university population is 6.4 (Studia XXI)
 - Teacher influence is reflected in student academic achievement and performance (PISA)
 
-
+## DATASET
+This dataset has over 20.000 surveys from 2015 to 2020. We can find 
 ## 1. EDA
 #### Exploratory Data Analysis
 
