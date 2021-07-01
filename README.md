@@ -1,13 +1,18 @@
 # Student Experience and Results AI
 ### A project from SaturdaysAI
 ## Authors:
-- Iñaki Fernández López-zuazo
-- Rubén García Pedrejón
-- Gorka Legarreta Ibarra
+- [Iñaki Fernández López-zuazo](https://github.com/InakiFLZ)
+- [Rubén García Pedrejón](https://github.com/rubengp39)
+- [Gorka Legarreta Ibarra](https://github.com/GorkaLegarreta)
 
-## Medium Post
-https://medium.com/@rubengp_35728/student-experience-and-results-ai-793753a1585b
+## [Medium Post](https://medium.com/@rubengp_35728/student-experience-and-results-ai-793753a1585b)
+
 ## Motivation
+We were presented with a dataset of surveys done by students of a university valorating their experience with teachers.
+- The university student population is set to increase by 27% in 2035 compared to 2018 (GEPS)
+- The average satisfaction of the university population is 6.4 (Studia XXI)
+- Teacher influence is reflected in student academic achievement and performance (PISA)
+
 
 ## 1. EDA
 #### Exploratory Data Analysis
