@@ -75,6 +75,8 @@ You can find deeper decision trees in the [notebook](https://github.com/rubengp3
 ### Clustering
 
 We used the elbow rule to decide what was the most effective number of clusters.
+
+
 ![image](https://user-images.githubusercontent.com/62309228/124262253-19a4a380-db32-11eb-850b-037eb316eca9.png) ![image](https://user-images.githubusercontent.com/62309228/124262309-2b864680-db32-11eb-93c0-9f44a3ca59dc.png)
 
 
@@ -90,4 +92,4 @@ You can see some more insights in the [NLP document](https://github.com/rubengp3
 
 # Conclusion
 
-We are 
+We have learned a lot both about Artificial Intelligence and Customer/Student Satisfaction and we want to give a shout out to all the group of SaturdaysAI Bilbao who have worked really hard and have shared their experience with us.
